@@ -1,5 +1,11 @@
 # Swagger JSDoc Webpack Plugin
 
+[![npm Version](https://img.shields.io/npm/v/swagger-jsdoc-webpack-plugin.svg)](https://www.npmjs.com/package/swagger-jsdoc-webpack-plugin)
+[![npm Downloads](https://img.shields.io/npm/dm/swagger-jsdoc-webpack-plugin.svg)](https://www.npmjs.com/package/swagger-jsdoc-webpack-plugin)
+[![Known Vulnerabilities](https://snyk.io/test/github/patsimm/swagger-jsdoc-webpack-plugin/badge.svg?targetFile=package.json)](https://snyk.io/test/github/patsimm/swagger-jsdoc-webpack-plugin?targetFile=package.json)
+![License](https://img.shields.io/npm/l/swagger-jsdoc-webpack-plugin.svg)
+
+
 ## Example Usage
 
 webpack.json
