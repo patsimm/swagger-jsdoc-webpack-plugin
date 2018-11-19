@@ -1,0 +1,28 @@
+{
+  "name": "swagger-jsdoc-webpack-plugin",
+  "version": "0.1.0",
+  "description": "A webpack plugin to generate a swagger.json file from jsdoc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patsimm/swagger-jsdoc-webpack-plugin.git"
+  },
+  "keywords": [
+    "swagger",
+    "jsdoc",
+    "webpack",
+    "plugin"
+  ],
+  "author": "\"Patrick Simmelbauer <patrick.simmelbauer@gmail.com> (https://github.com/patsimm)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patsimm/swagger-jsdoc-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/patsimm/swagger-jsdoc-webpack-plugin#readme",
+  "dependencies": {
+    "swagger-jsdoc": "^3.2.3"
+  }
+}
