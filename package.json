@@ -1,6 +1,6 @@
 {
   "name": "swagger-jsdoc-webpack-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A webpack plugin to generate a swagger.json file from jsdoc",
   "main": "index.js",
   "scripts": {
